@@ -10,11 +10,21 @@
             text-align: center;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: url('your-background-image.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
             color: #333;
         }
         .container {
-            margin-top: 100px;
+            max-width: 80%;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
         }
         h1 {
             font-size: 3em;
@@ -25,7 +35,7 @@
             margin-bottom: 20px;
         }
         .contact-button {
-            position: absolute;
+            position: fixed;
             top: 20px;
             right: 20px;
             padding: 10px 20px;
