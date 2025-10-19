@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nature Allies - EN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f9f9f9;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Nature Allies - Information</h1>
+        <pre id="file-content"></pre>
+    </div>
+    <script>
+        fetch('en_GDPR Notice.txt')
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById('file-content').textContent = text;
+            });
+    </script>
+</body>
+</html>
