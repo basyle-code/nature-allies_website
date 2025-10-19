@@ -1,0 +1,48 @@
+GDPR Notice
+
+1. Collection of Personal Data
+The mobile application collects and processes the following personal data:
+
+Email address
+Progress level in the educational game
+Revision lists
+
+This data is not shared with any third parties.
+
+2. Purpose of Processing
+The collected data is used exclusively for the following purposes:
+
+Management of your user account and personalization of your experience in the application.
+Tracking your progress in the educational game to provide tailored recommendations.
+Continuous improvement of the application and its features.
+
+This data is not shared with any third parties.
+
+3. Legal Basis
+The processing of your personal data is based on your consent, which you may withdraw at any time.
+
+4. Data Retention Period
+Your personal data is retained for the duration of your use of the application and up to 3 years after your last login, unless you request deletion before this period.
+
+5. Data Recipients
+Your personal data is not shared with third parties, except in the following cases:
+
+To comply with a legal or regulatory obligation.
+
+
+6. Your Rights
+Under the GDPR, you have the following rights:
+
+Right of access: You may request access to your personal data.
+Right to rectification: You may request the correction of your personal data if it is inaccurate.
+Right to erasure: You may request the deletion of your personal data.
+Right to data portability: You may request to receive your personal data in a structured, machine-readable format.
+Right to object: You may object to the processing of your personal data.
+
+To exercise these rights, please contact our customer service at basile.gully@nature-allies.com.
+
+7. Data Security
+We implement appropriate technical and organizational measures to protect your personal data against loss, unauthorized access, disclosure, or destruction.
+
+8. Changes to the Privacy Policy
+We reserve the right to modify this GDPR notice at any time. Any changes will be published on this page.
