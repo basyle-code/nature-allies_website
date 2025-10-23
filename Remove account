@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Your Nature-Allies Account</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            color: #333;
+        }
+        h1 {
+            color: #2E8B57;
+        }
+        ol {
+            padding-left: 20px;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>How to delete your Nature-Allies app account?</h1>
+    <ol>
+        <li>Sign in to the app.</li>
+        <li>Go to the "Profile" tab.</li>
+        <li>Click on "Delete my account".</li>
+    </ol>
+    <footer>
+        <p>If you have any questions, please contact our support team.</p>
+    </footer>
+</body>
+</html>
